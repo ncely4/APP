@@ -1,0 +1,1 @@
+{"nombre": "MARIANA ALEJANDRA SOTELO", "correo": "nuevo.residente@parkapp.demo", "telefono": "3105550199", "rol_solicitado": "residente", "anillo": 13, "apto": "204", "hash": "xRO5NsblgvCrHNQseS17enSzg8e5Rr2qmoyc7QAVFDA=", "salt": "Fc/g/5wN9vQ1IYdQvecaSg==", "iteraciones": 150000, "algoritmo": "PBKDF2-SHA256", "fecha": "2026-09-26T20:10:00Z"}
